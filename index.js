@@ -5,7 +5,7 @@ const server = http.createServer((req, res) => {
   res.end(`
     <html>
       <head>
-        <title>Node.js Test</title>
+        <title>Node.js Testing for AWS!!!</title>
         <style>
           body {
             background-color: gray;
